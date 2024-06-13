@@ -1,0 +1,15 @@
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\bin\Debug\net7.0\N1desafio.exe
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\bin\Debug\net7.0\N1desafio.deps.json
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\bin\Debug\net7.0\N1desafio.runtimeconfig.json
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\bin\Debug\net7.0\N1desafio.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\bin\Debug\net7.0\N1desafio.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.csproj.AssemblyReference.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.AssemblyInfoInputs.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.AssemblyInfo.cs
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.csproj.CoreCompileInputs.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\refint\N1desafio.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\N1desafio.genruntimeconfig.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N1desafio\N1desafio\obj\Debug\net7.0\ref\N1desafio.dll
